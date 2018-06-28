@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dushan/Source/AVL/AVLTree.cpp
+AVLTree.h
+/home/dushan/Source/AVL/AVLTree.h
+bits/stdc++.h
+-
+
+/home/dushan/Source/AVL/AVLTree.h
+
+/home/dushan/Source/AVL/testAVL.cpp
+bits/stdc++.h
+-
+AVLTree.h
+/home/dushan/Source/AVL/AVLTree.h
+
